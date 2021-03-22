@@ -4,7 +4,12 @@ using System.Text;
 
 namespace vjezba1
 {
-    class Class1
+    class NewClass
     {
+        static void Main(string[] args)
+        {
+            return;
+        }
+
     }
 }
