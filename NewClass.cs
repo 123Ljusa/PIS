@@ -4,7 +4,9 @@ using System.Text;
 
 namespace vjezba1
 {
+    //prva klasa
     class Class1
     {
+        
     }
 }
